@@ -70,6 +70,15 @@
     </description>
   </item>
   <item>
+    <title>Evgenia news item empty guid</title>
+    <link>https://www.proiezionidiborsa.it/1/</link>    
+    <guid isPermaLink="false"></guid>
+    <pubDate>Thu, 09 Jun 2022 13:14:20 +0000</pubDate>            
+    <description>
+      <p>text befort br <br/> after br <br> the end</p> 
+    </description>
+  </item>
+  <item>
     <title>Evgenia news item no pubdate</title>
     <link>https://www.proiezionidiborsa.it/1/</link>        
     <guid isPermaLink="false">5</guid>
