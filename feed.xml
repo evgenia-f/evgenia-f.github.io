@@ -102,5 +102,19 @@
       <p>text befort br <br/> after br <br> the end</p> 
     </description>
   </item>
+  <item>
+    <title>Evgenia news item many links</title>
+    <link>https://www.proiezionidiborsa.it/1/</link>    
+    <pubDate>Thu, 09 Jun 2022 13:17:20 +0000</pubDate>        
+    <guid isPermaLink="false">10</guid>
+    <description>
+      <a href="https://bits.media/bred-garlingkhaus-sec-gotovit-isk-protiv-ripple/">тяжбе</a><br>
+      <a href="https://bits.media/bred-garlingkhaus-sec-gotovit-isk-protiv-ripple/">тяжбе</a><br>
+      <a href="https://bits.media/bred-garlingkhaus-sec-gotovit-isk-protiv-ripple/">тяжбе</a><br>
+      <a href="https://bits.media/bred-garlingkhaus-sec-gotovit-isk-protiv-ripple/">тяжбе</a><br>
+      <a href="https://bits.media/bred-garlingkhaus-sec-gotovit-isk-protiv-ripple/">тяжбе</a><br>
+      <a href="https://bits.media/bred-garlingkhaus-sec-gotovit-isk-protiv-ripple/">тяжбе</a><br>
+    </description>
+  </item>    
   </channel>
 </rss>
