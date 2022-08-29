@@ -26,13 +26,64 @@
   <height>32</height>
 </image>
   <item>
-    <title>Evgenia test news item</title>
-    <link>https://www.proiezionidiborsa.it/tutti-guardano-al-rialzo-dei-tassi-da-parte-della-banca-centrale-europea-e-lagarde-conferma-le-attese/</link>    
+    <title>Evgenia news item from future</title>
+    <link>https://www.proiezionidiborsa.it/1/</link>    
     <pubDate>Thu, 09 Jun 2023 13:15:20 +0000</pubDate>        
-    <guid isPermaLink="false">https://www.proiezionidiborsa.it/?p=304819</guid>
-<description>
-  <p>text befort br <br/> after br <br> the end</p> 
-</description>
-      </item>
+    <guid isPermaLink="false">1</guid>
+    <description>
+      <p>text befort br <br/> after br <br> the end</p> 
+    </description>
+  </item>
+  <item>
+    <title>Evgenia news item from past</title>
+    <link>https://www.proiezionidiborsa.it/1/</link>    
+    <pubDate>Thu, 09 Jun 2020 13:15:20 +0000</pubDate>        
+    <guid isPermaLink="false">2</guid>
+    <description>
+      <p>text befort br <br/> after br <br> the end</p> 
+    </description>
+  </item>
+  <item>
+    <title>Evgenia news item guid 3</title>
+    <link>https://www.proiezionidiborsa.it/1/</link>    
+    <pubDate>Thu, 09 Jun 2022 13:17:20 +0000</pubDate>        
+    <guid isPermaLink="false">3</guid>
+    <description>
+      <p>text befort br <br/> after br <br> the end</p> 
+    </description>
+  </item>
+  <item>
+    <title>Evgenia news item with guid 3</title>
+    <link>https://www.proiezionidiborsa.it/1/</link>    
+    <pubDate>Thu, 09 Jun 2022 14:15:20 +0000</pubDate>        
+    <guid isPermaLink="false">3</guid>
+    <description>
+      <p>text befort br <br/> after br <br> the end</p> 
+    </description>
+  </item>
+  <item>
+    <title>Evgenia news item no guid</title>
+    <link>https://www.proiezionidiborsa.it/1/</link>    
+    <pubDate>Thu, 09 Jun 2022 13:14:20 +0000</pubDate>            
+    <description>
+      <p>text befort br <br/> after br <br> the end</p> 
+    </description>
+  </item>
+  <item>
+    <title>Evgenia news item no pubdate</title>
+    <link>https://www.proiezionidiborsa.it/1/</link>        
+    <guid isPermaLink="false">5</guid>
+    <description>
+      <p>text befort br <br/> after br <br> the end</p> 
+    </description>
+  </item>    
+  <item>    
+    <link>https://www.proiezionidiborsa.it/1/</link>    
+    <pubDate>Thu, 09 Jun 2020 13:15:20 +0000</pubDate>        
+    <guid isPermaLink="false">4</guid>
+    <description>
+      <p>text befort br <br/> after br <br> the end</p> 
+    </description>
+  </item>
   </channel>
 </rss>
