@@ -143,7 +143,7 @@
     <description>
       <p>Exclusive News Item</p> 
     </description>
-    <category domain="tradingview:pubStatus">use</category>
+    <category domain="tradingview:pubStatus">usable</category>
   </item>
   <item>
     <title>Evgenia news item invalid category1</title>
