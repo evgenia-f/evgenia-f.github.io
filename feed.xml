@@ -142,8 +142,7 @@
     <guid isPermaLink="false">22</guid>
     <description>
       <p>Exclusive News Item</p> 
-    </description>
-    <category domain="tradingview:pubStatus">usable</category>
+    </description>   
   </item>
   <item>
     <title>Evgenia news item invalid category1</title>
