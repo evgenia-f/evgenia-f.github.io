@@ -152,8 +152,7 @@
     <description>
       <p>Exclusive News Item</p> 
     </description>
-    <category domain="tradingview:market">diff</category>
-    <category domain="tradingview:pubStatus">usable</category>
+    <category domain="tradingview:market">diff</category>    
   </item>
   </channel>
 </rss>
