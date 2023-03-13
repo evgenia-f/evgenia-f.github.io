@@ -153,6 +153,7 @@
       <p>Exclusive News Item</p> 
     </description>
     <category domain="tradingview:market">diff</category>    
+    <category domain="tradingview:pubStatus">cancel</category>
   </item>
   </channel>
 </rss>
