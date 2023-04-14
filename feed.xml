@@ -151,8 +151,7 @@
     <guid isPermaLink="false">23</guid>
     <description>
       <p>Exclusive News Item</p> 
-    </description>
-    <category domain="tradingview:pubStatus">excluded</category>
+    </description>    
   </item>
   </channel>
 </rss>
