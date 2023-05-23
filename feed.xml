@@ -158,7 +158,7 @@
     <link>https://www.proiezionidiborsa.it/1/</link>    
     <pubDate>Mon, 22 May 2023 13:15:20 +0000</pubDate>        
     <guid isPermaLink="false">32</guid>
-    <category domain="tradingview:pubStatus">stat:usable</category>
+    <category domain="tradingview:pubStatus">stat:cancelled</category>
     <description>
       <ul>
 		    <li>First key point</li>
@@ -181,8 +181,9 @@
     </description>	
 	<link>https://www.tradingview.com</link>    
 	<category domain="tradingview:symbol">NASDAQ:NVDA</category>
-        <category domain="tradingview:market">stock</category>
-        <category domain="tradingview:country">US</category>
+        <category domain="tradingview:market">stock/US</category>
+	<category domain="tradingview:market">index</category>
+        <category domain="tradingview:country">CN</category>
         <category domain="tradingview:language">en</category>
         <category domain="tradingview:urgency">2</category>
   </item>    
