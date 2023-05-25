@@ -248,5 +248,21 @@ In a recent CNBC interview, Elon Musk, the CEO of Twitter, emphasized the need f
            <category domain="tradingview:urgency">2</category>
            <category domain="tradingview:isExclusive">true</category>   
        </item>
+  <item>
+           <title>Test Index news</title>   
+           <pubDate>Sat, 13 May 2023 14:15:20 +0000</pubDate>       
+           <guid>13</guid>
+           <description>
+           <ul>
+            <li>Test</li>                        
+            </ul>
+            <p>Tests tets</p>
+           </description> 
+           <category domain="tradingview:symbol">DJ:DJI</category> 	      
+           <category domain="tradingview:language">en</category>
+           <category domain="tradingview:urgency">2</category>
+           <category domain="tradingview:isExclusive">false</category>   
+       </item>
+  
   </channel>
 </rss>
