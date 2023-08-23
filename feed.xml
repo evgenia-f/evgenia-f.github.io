@@ -196,5 +196,14 @@
 <category domain="tradingview:symbol">NASDAQ:BNSO</category>
 <pubDate>Tue, 13 Jun 2023 10:22:37 +0000</pubDate>
 </item>	
+<item>
+<title>Test invalid section</title>
+<description>
+<![CDATA[ <ul><li>Bonso Electronics International to voluntarily delist from Nasdaq and deregister under the Exchange Act</li></ul>]]>
+</description>
+<guid isPermaLink="false">test:9a48f5a2309</guid>
+<category domain="tradingview:section">test_section</category>
+<pubDate>Tue, 22 Aug 2023 10:22:37 +0000</pubDate>
+</item>	
   </channel>
 </rss>
