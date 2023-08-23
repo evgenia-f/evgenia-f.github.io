@@ -197,11 +197,12 @@
 <pubDate>Tue, 13 Jun 2023 10:22:37 +0000</pubDate>
 </item>	
 <item>
-<title>Test invalid section 333</title>
+<title>Test invalid section 444</title>
 <description>
 <![CDATA[ <ul><li>Bonso Electronics International to voluntarily delist from Nasdaq and deregister under the Exchange Act</li></ul>]]>
 </description>
 <guid isPermaLink="false">test:9a48f5a2309</guid>
+<category domain="tradingview:section">esg</category>
 <pubDate>Tue, 22 Aug 2023 10:22:37 +0000</pubDate>
 </item>	
   </channel>
