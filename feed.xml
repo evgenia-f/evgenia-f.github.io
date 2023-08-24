@@ -25,148 +25,6 @@
   <width>32</width>
   <height>32</height>
 </image>
-  <item>
-    <title>Evgenia news item from future less than 1 year</title>
-    <link>https://www.proiezionidiborsa.it/1/</link>    
-    <pubDate>Thu, 09 Jun 2023 13:15:20 +0000</pubDate>        
-    <guid isPermaLink="false">1</guid>
-    <description>
-      <p>text befort br <br/> after br <br> the end</p> 
-    </description>
-  </item>
-  <item>
-    <title>Evgenia news item from future less than 1 year</title>
-    <link>https://www.proiezionidiborsa.it/1/</link>    
-    <pubDate>Mon, 29 Aug 2022 13:15:20 +0000</pubDate>        
-    <guid isPermaLink="false">11</guid>
-    <description>
-      <p>text befort br <br/> after br <br> the end</p> 
-    </description>
-  </item>
-  <item>
-    <title>Evgenia news item from future more than 1 year</title>
-    <link>https://www.proiezionidiborsa.it/1/</link>    
-    <pubDate>Thu, 09 Jun 2024 13:15:20 +0000</pubDate>        
-    <guid isPermaLink="false">1</guid>
-    <description>
-      <p>text befort br <br/> after br <br> the end</p> 
-    </description>
-  </item>    
-  <item>
-    <title>Evgenia news item from past</title>
-    <link>https://www.proiezionidiborsa.it/1/</link>    
-    <pubDate>Thu, 09 Jun 2020 13:15:20 +0000</pubDate>        
-    <guid isPermaLink="false">2</guid>
-    <description>
-      <p>text befort br <br/> after br <br> the end</p> 
-    </description>
-  </item>
-  <item>
-    <title>Evgenia news item guid 3</title>
-    <link>https://www.proiezionidiborsa.it/1/</link>    
-    <pubDate>Thu, 09 Jun 2022 13:17:20 +0000</pubDate>        
-    <guid isPermaLink="false">3</guid>
-    <description>
-      <p>text befort br <br/> after br <br> the end</p> 
-    </description>
-  </item>
-  <item>
-    <title>Evgenia news item with guid 3</title>
-    <link>https://www.proiezionidiborsa.it/1/</link>    
-    <pubDate>Thu, 09 Jun 2022 14:15:20 +0000</pubDate>        
-    <guid isPermaLink="false">3</guid>
-    <description>
-      <p>text befort br <br/> after br <br> the end</p> 
-    </description>
-  </item>
-  <item>
-    <title>Evgenia news item no guid</title>       
-    <pubDate>Thu, 09 Jun 2022 13:14:20 +0000</pubDate>            
-    <description>
-      <p>text befort br <br/> after br <br> the end</p> 
-    </description>
-  </item>
-  <item>
-    <title>Evgenia news item empty guid</title>
-    <link></link>    
-    <guid isPermaLink="false"></guid>
-    <pubDate>Thu, 09 Jun 2022 13:14:20 +0000</pubDate>            
-    <description>
-      <p>text befort br <br/> after br <br> the end</p> 
-    </description>
-  </item>
-  <item>
-    <title>Evgenia news item no pubdate</title>
-    <link>https://www.proiezionidiborsa.it/1/</link>        
-    <guid isPermaLink="false">5</guid>
-    <description>
-      <p>text befort br <br/> after br <br> the end</p> 
-    </description>
-  </item>    
-  <item>    
-    <link>https://www.proiezionidiborsa.it/1/</link>    
-    <pubDate>Thu, 09 Jun 2020 13:15:20 +0000</pubDate>        
-    <guid isPermaLink="false">4</guid>
-    <description>
-      <p>text befort br <br/> after br <br> the end</p> 
-    </description>
-  </item>
-  <item>
-    <title>Evgenia news item many links</title>
-    <link>https://www.proiezionidiborsa.it/1/</link>    
-    <pubDate>Thu, 09 Jun 2022 13:17:20 +0000</pubDate>        
-    <guid isPermaLink="false">10</guid>
-    <description>
-      <a href="https://bits.media/bred-garlingkhaus-sec-gotovit-isk-protiv-ripple/">тяжбе</a><br>
-      <a href="https://bits.media/bred-garlingkhaus-sec-gotovit-isk-protiv-ripple/">тяжбе</a><br>
-      <a href="https://bits.media/bred-garlingkhaus-sec-gotovit-isk-protiv-ripple/">тяжбе</a><br>
-      <a href="https://bits.media/bred-garlingkhaus-sec-gotovit-isk-protiv-ripple/">тяжбе</a><br>
-      <a href="https://bits.media/bred-garlingkhaus-sec-gotovit-isk-protiv-ripple/">тяжбе</a><br>
-      <a href="https://bits.media/bred-garlingkhaus-sec-gotovit-isk-protiv-ripple/">тяжбе</a><br>
-    </description>
-  </item>
-  <item>
-    <title>Evgenia Exclusive news item</title>
-    <link>https://www.proiezionidiborsa.it/1/</link>    
-    <pubDate>Thu, 28 Feb 2023 13:15:20 +0000</pubDate>        
-    <guid isPermaLink="false">21</guid>
-    <description>
-      <p>Exclusive News Item</p> 
-    </description>
-    <category domain="tradingview:isExclusive">true</category>
-  </item>
-  <item>
-    <title>Evgenia news item invalid pubstatus1</title>
-    <link>https://www.proiezionidiborsa.it/1/</link>    
-    <pubDate>Thu, 8 Mar 2023 13:15:24 +0000</pubDate>        
-    <guid isPermaLink="false">22</guid>
-    <description>
-      <p>Exclusive News Item</p> 
-    </description>   
-  </item>
-  <item>
-    <title>Evgenia news item invalid category1</title>
-    <link>https://www.proiezionidiborsa.it/1/</link>    
-    <pubDate>Thu, 9 Mar 2023 13:15:32 +0000</pubDate>        
-    <guid isPermaLink="false">23</guid>
-    <description>
-      <p>Exclusive News Item</p> 
-    </description>    
-  </item>
-  <item>
-    <title>Evgenia news item with summary 1</title>
-    <link>https://www.proiezionidiborsa.it/1/</link>    
-    <pubDate>Mon, 22 May 2023 13:15:20 +0000</pubDate>        
-    <guid isPermaLink="false">32</guid>
-    <category domain="tradingview:pubStatus">stat:cancelled</category>
-    <description>
-      <ul>
-		    <li>First key point</li>
-        <li>Second key point</li>
-      </ul>
-      <p>text description</p> 
-    </description>
-  </item>   
 <item>
     <title>NVIDIA and affiliates partner to advance quantum computing technology</title>    
     <pubDate>Tue, 23 May 2023 00:15:20 +0000</pubDate>        
@@ -187,21 +45,13 @@
         <category domain="tradingview:language">en</category>
         <category domain="tradingview:urgency">2</category>
   </item>    
-<item>
-<title>Bonso Electronics International falls on Nasdaq delisting and deregister of common stock</title>
-<description>
-<![CDATA[ <ul><li>Bonso Electronics International to voluntarily delist from Nasdaq and deregister under the Exchange Act</li><li>Nasdaq delisting expected to become effective on or about July 11, 2023</li><li>Company intends to make periodic financial and other information available to its shareholders on its website</li></ul>Bonso Electronics International announced that the board has voted unanimously to voluntarily delist from Nasdaq and deregister under the Exchange Act to suspend its public reporting obligations as the number of shareholders are fewer than 300. The company believes that cost incurred in maintaining listing on Nasdaq does not justify benefits to the Company and its stockholders. The Nasdaq delisting is expected to become effective on or about July 11, 2023 and thereafter be eligible for quotation on the Pink tier of OTC Markets Group if market makers commit to making a market in the Company’s shares. The Company can provide no assurance that trading in its common stock will continue on the OTC Markets Group or otherwise. The Company will file a Form 15 with the Securities and Exchange Commission on or about July 12, 2023, leading to obligation to file periodic reports under the Exchange Act, including annual and current reports on Form 20-F, and Form 6-K, respectively, will be suspended. Following deregistration, the company intends to voluntarily make periodic financial and other information available to its shareholders on its website. BNSO may periodically repurchase shares on the open market at prevailing market prices or in privately negotiated transactions following the filing of the Form 15. Shares -23% premarket. Source: <a href="https://seekingalpha.com/pr/19365180-bonso-electronics-international-inc-announces-plan-to-delist-from-nasdaq-and-deregister?fr=1&utm_medium=referral&utm_source=tradingview">Press Release</a> ]]>
-</description>
-<guid isPermaLink="false">seeking_alpha:9a48f5a23094b-_</guid>
-<category domain="tradingview:symbol">NASDAQ:BNSO</category>
-<pubDate>Tue, 13 Jun 2023 10:22:37 +0000</pubDate>
-</item>	
+	
 <item>
 <title>Test invalid section 120</title>
 <description>
 <![CDATA[ <ul><li>Bonso Electronics International to voluntarily delist from Nasdaq and deregister under the Exchange Act</li></ul>]]>
 </description>
-<guid isPermaLink="false">test:9h48f5a2309</guid>
+<guid isPermaLink="false">test:9h48f5a2309120</guid>
 <pubDate>Tue, 22 Aug 2023 10:22:37 +0000</pubDate>
 <category domain="tradingview:section">test</category>
 </item>	
