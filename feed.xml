@@ -47,13 +47,13 @@
   </item>    
 	
 <item>
-<title>Test invalid section esg</title>
+<title>Test invalid section sur</title>
 <description>
 <![CDATA[ <ul><li>Bonso Electronics International to voluntarily delist from Nasdaq and deregister under the Exchange Act</li></ul>]]>
 </description>
-<guid isPermaLink="false">test:9h48f5a2309esg</guid>
+<guid isPermaLink="false">test:9h48f5a2309sur</guid>
 <pubDate>Tue, 22 Aug 2023 10:22:37 +0000</pubDate>
-<category domain="tradingview:section">esg</category>
+<category domain="tradingview:section">survey</category>
 </item>	
   </channel>
 </rss>
